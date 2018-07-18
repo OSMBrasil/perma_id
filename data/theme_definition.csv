@@ -1,0 +1,7 @@
+country,theme,filter_qid,filter_description,watchers_url
+br,br-city,Q3184121,Municipality of Brazil (cities),http://datasets.ok.org.br/city-codes
+br,br-state,Q753113,Region of Brazil (official subdivision of Brazil in subregions),http://datasets.ok.org.br/state-codes
+br,br-state,Q485258,Federative unit of Brazil (states),http://datasets.ok.org.br/state-codes
+br,br-fed-way,,,
+br,br-state-way,,,
+br,br-city-way,,,
