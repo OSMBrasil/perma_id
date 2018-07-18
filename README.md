@@ -15,3 +15,7 @@ See [collaborative spreadsheets](https://docs.google.com/spreadsheets/d/1Qj9j9n7
 * Friendly: [Spreadsheet for themes and watchers](https://docs.google.com/spreadsheets/d/1Qj9j9n7LpLoXn_DpTJHUqdsjVuCmOmF3n5aY69Dxfg0/edit)
 
 * Direct: [`data` folder](data) with main CSVs, and `data/_themeName_` folder with CSV controled by the watchers of each theme.
+
+------
+
+[&#160; Contents and data of this project are dedicated to<br/> ![](assets/CC0-logo-200px.png) ](LICENSE.md)
